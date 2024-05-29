@@ -1,3 +1,5 @@
+#hg_1_delta
+
 # Tipo de usuario
 - [x] Alfa = Raykel
 - [x] Bravo = Stephen 
